@@ -97,3 +97,5 @@ class Game
 
     # ターン
     puts "Turn"
+  end
+end
